@@ -1,0 +1,60 @@
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\obj\Debug\net5.0\URL Shortener Engine.csproj.AssemblyReference.cache
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\obj\Debug\net5.0\URL Shortener Engine.GeneratedMSBuildEditorConfig.editorconfig
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\obj\Debug\net5.0\URL Shortener Engine.AssemblyInfoInputs.cache
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\obj\Debug\net5.0\URL Shortener Engine.AssemblyInfo.cs
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\obj\Debug\net5.0\URL Shortener Engine.csproj.CoreCompileInputs.cache
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\obj\Debug\net5.0\URL Shortener Engine.MvcApplicationPartsAssemblyInfo.cs
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\obj\Debug\net5.0\URL Shortener Engine.MvcApplicationPartsAssemblyInfo.cache
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\appsettings.Development.json
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\appsettings.json
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\URL Shortener Engine.exe
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\URL Shortener Engine.deps.json
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\URL Shortener Engine.runtimeconfig.json
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\URL Shortener Engine.runtimeconfig.dev.json
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\URL Shortener Engine.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\URL Shortener Engine.pdb
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\Humanizer.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\obj\Debug\net5.0\scopedcss\bundle\URL Shortener Engine.styles.css
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\obj\Debug\net5.0\staticwebassets\URL Shortener Engine.StaticWebAssets.Manifest.cache
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\obj\Debug\net5.0\URL Shortener Engine.RazorTargetAssemblyInfo.cache
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\obj\Debug\net5.0\URL Shortener Engine.csproj.CopyComplete
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\obj\Debug\net5.0\URL Shortener Engine.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\obj\Debug\net5.0\refint\URL Shortener Engine.dll
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\obj\Debug\net5.0\URL Shortener Engine.pdb
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\obj\Debug\net5.0\URL Shortener Engine.genruntimeconfig.cache
+D:\My worke\URL Shortener Engine task\URL Shortener Engine\URL Shortener Engine\obj\Debug\net5.0\ref\URL Shortener Engine.dll
